@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Character Cards</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="hero">
+        <div class="banner">
+            <img src="pics/banner.png" alt="Banner">
+        </div>
+    </header>
+
+    <section class="intro">
+        <div class="intro-content">
+            <h1 class="intro-title">Character Cards</h1>
+            <p class="intro-description">
+                A shelf of my characters. <a href="https://example.com">ALL OTHER LINKS</a>
+            </p>
+            <p class="intro-hint">Click on a card for more info!</p>
+        </div>
+    </section>
+
+    <!-- Decorative -->
+    <div class="decor decor-left" aria-hidden="true"></div>
+    <div class="decor decor-right" aria-hidden="true"></div>
+
+    <!-- Cards are generated from data/characters.js -->
+    <main class="collection"></main>
+
+    <footer class="footer">
+        <p>meow</p>
+    </footer>
+
+    <script src="data/characters.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
