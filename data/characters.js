@@ -119,6 +119,19 @@ const GROUPS = [
                     { style: "download", label: "SillyTavern card", url: "cards/Carter Kelman.png" }
                 ]
             },
+            {
+                name: "REHAB | Viktor Shapovalov",
+                tagline: "Your big family with the best counselor.",
+                image: "cards/Viktor_Shapovalov.png",
+                text: [
+                    "Wow rusreal",
+                    "Viktor is the senior counselor at the rehab, a man of his word and a man of action. A former punk and recovering alcoholic turned schoolteacher who dedicated his life to helping others. Strict but fair, he's your "father" for the next couple of months. Or maybe not father, but *daddy* winks."
+                ],
+                links: [
+                    { style: "janitor",  label: "Janitor AI",       url: "https://janitorai.com/characters/a4a60eac-5ead-4467-b432-243686614f2e_character-rehab-viktor-shapovalov" },
+                    { style: "download", label: "SillyTavern card", url: "cards/Viktor_Shapovalov.png" }
+                ]
+            },
         ]
     },    
     /* ========================================================
@@ -182,6 +195,19 @@ const GROUPS = [
             },
                         {
                 name: "Ricardo Ashwood | Farm",
+                tagline: "FResHh mEAaaAAat...",
+                image: "cards/Hunger.png",
+                text: [
+                    "Hunger is a gigantic, slimy monster with a bottomless stomach and a multitude of tentacles, dwelling within the Maw. And you have just entered its domain. Good luck!"
+                ],
+                links: [
+                    { style: "janitor",  label: "Janitor AI",       url: "https://janitorai.com/characters/e1a73a9b-fb4f-4790-ad90-f994350a7a61_character-hunger-gorgorannath-collab" },
+                    { style: "download", label: "SillyTavern card", url: "cards/Hunger.png" }
+                ]
+            },
+            },
+                        {
+                name: "HUNGER | GORGORANNATH COLLAB",
                 tagline: "A farm setting.",
                 image: "cards/Ricardo.png",
                 text: [
