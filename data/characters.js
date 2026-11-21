@@ -194,7 +194,7 @@ const GROUPS = [
                 ]
             },
                         {
-                name: "Ricardo Ashwood | Farm",
+                name: "HUNGER | GORGORANNATH COLLAB",
                 tagline: "FResHh mEAaaAAat...",
                 image: "cards/Hunger.png",
                 text: [
@@ -206,7 +206,7 @@ const GROUPS = [
                 ]
             },
                         {
-                name: "HUNGER | GORGORANNATH COLLAB",
+                name: "Ricardo Ashwood | Farm",
                 tagline: "A farm setting.",
                 image: "cards/Ricardo.png",
                 text: [
