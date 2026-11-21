@@ -125,7 +125,7 @@ const GROUPS = [
                 image: "cards/Viktor_Shapovalov.png",
                 text: [
                     "Wow rusreal",
-                    "Viktor is the senior counselor at the rehab, a man of his word and a man of action. A former punk and recovering alcoholic turned schoolteacher who dedicated his life to helping others. Strict but fair, he's your "father" for the next couple of months. Or maybe not father, but *daddy* winks."
+                    "Viktor is the senior counselor at the rehab, a man of his word and a man of action. A former punk and recovering alcoholic turned schoolteacher who dedicated his life to helping others. Strict but fair, he's your \"father\" for the next couple of months. Or maybe not father, but *daddy* winks."
                 ],
                 links: [
                     { style: "janitor",  label: "Janitor AI",       url: "https://janitorai.com/characters/a4a60eac-5ead-4467-b432-243686614f2e_character-rehab-viktor-shapovalov" },
@@ -205,7 +205,6 @@ const GROUPS = [
                     { style: "download", label: "SillyTavern card", url: "cards/Hunger.png" }
                 ]
             },
-            },
                         {
                 name: "HUNGER | GORGORANNATH COLLAB",
                 tagline: "A farm setting.",
@@ -218,7 +217,7 @@ const GROUPS = [
                     { style: "janitor",  label: "Janitor AI",       url: "https://janitorai.com/characters/14322bd2-4215-4c2f-9349-5ec62c087db8_character-ricardo-ashwood-farm" },
                     { style: "download", label: "SillyTavern card", url: "cards/Ricardo.png" }
                 ]
-            },
+            }
         ]
     },
 
